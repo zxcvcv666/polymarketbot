@@ -1,0 +1,26 @@
+﻿timestamp,slug,event_type,side,price,size,usd_amount,pnl,status,note
+2026-02-27 14:30:40,btc-updown-15m-1772202600,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,超时取消
+2026-02-27 14:30:25,btc-updown-15m-1772202600,BUY,BUY,0.52,5.0,2.6,0.0,placed,
+2026-02-27 14:30:24,btc-updown-15m-1772202600,BUY,BUY,0.45,5.0,2.25,0.0,placed,
+2026-02-27 14:30:23,btc-updown-5m-1772202600,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,超时取消
+2026-02-27 14:30:07,btc-updown-5m-1772202600,BUY,BUY,0.56,5.0,2.8000000000000003,0.0,placed,
+2026-02-27 14:30:05,btc-updown-5m-1772202600,BUY,BUY,0.41000000000000003,5.0,2.0500000000000003,0.0,placed,
+2026-02-27 13:52:00,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:52:00,btc-updown-5m-1772200200,BUY,BUY,0.03,5.0,0.15,0.0,placed,
+2026-02-27 13:51:53,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:51:53,btc-updown-5m-1772200200,BUY,BUY,0.03,5.0,0.15,0.0,placed,
+2026-02-27 13:51:45,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:51:45,btc-updown-5m-1772200200,BUY,BUY,0.03,5.0,0.15,0.0,placed,
+2026-02-27 13:51:38,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:51:38,btc-updown-5m-1772200200,BUY,BUY,0.05,5.0,0.25,0.0,placed,
+2026-02-27 13:51:31,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:51:31,btc-updown-5m-1772200200,BUY,BUY,0.05,5.0,0.25,0.0,placed,
+2026-02-27 13:50:23,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:50:22,btc-updown-5m-1772200200,BUY,BUY,0.5,5.0,2.5,0.0,placed,
+2026-02-27 13:50:15,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:50:15,btc-updown-5m-1772200200,BUY,BUY,0.5,5.0,2.5,0.0,placed,
+2026-02-27 13:50:08,btc-updown-5m-1772200200,CANCEL,N/A,0.0,0.0,0.0,0.0,cancelled,
+2026-02-27 13:50:08,btc-updown-5m-1772200200,BUY,BUY,0.4,5.0,2.0,0.0,placed,
+2026-02-27 13:17:25,btc-updown-15m-1772198100,MERGE,both,1.0,5.0,5.0,0.15000000000000036,completed,condition_id: 0x11d164fe10c6ce53541a5b4d24f7d4783c32a6e7df30be2d4b476559f7873bd7
+2026-02-27 13:17:12,btc-updown-15m-1772198100,BUY,BUY,0.36,5.0,1.7999999999999998,0.0,placed,
+2026-02-27 13:17:12,btc-updown-15m-1772198100,BUY,BUY,0.61,5.0,3.05,0.0,placed,
